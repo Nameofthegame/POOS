@@ -1,2 +1,2 @@
 # POOS
-Mobile Chat App for POOS (Fall 2021)
+Chatterbox: Mobile Chat App for POOS (Fall 2021)
